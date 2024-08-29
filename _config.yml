@@ -26,7 +26,7 @@ url: "https://kawazoekotaro.github.io" # the base hostname & protocol for your s
 github_username:  kawazoekotaro
 
 # Build settings
-theme: minima
+theme: slate
 plugins:
   - jekyll-feed
 
