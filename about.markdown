@@ -1,17 +1,44 @@
 ---
-title: About
+title: 自己紹介
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+[Home](/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## 自己紹介
+### 名前
+川添 浩太朗
+### 出身地
+熊本県 長洲町
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## 趣味
+### 料理
+学生の頃、惣菜が多くて飽きてしまい自作し始める.
+かれこれ10年以上自炊を続けており
+和食・中華・洋食とくにこだわりなく食べたいものを作っている。
+特に得意な料理はないが、味付けをざっくり目分量で決められるようになった。
 
+### マラソン・トレラン
+社会人デビュー後、学生からずっと文化部で運動不足だったため、運動不足を解消しようとマラソンを始めた。
+知り合いとフルマラソンを走ったりしていたが、最近はやや下火気味
+ロードよりも不整地のトレイルを走ることが多くなった。
+最長ロード完走記録はみちくさウルトラマラソンの60km
+最長トレイル完走記録は青梅高水国際トレイルラン大会の30km 
 
-[jekyll-organization]: https://github.com/jekyll
+### 登山
+トレランから派生して山登りを始めた。
+愛犬と一緒に丹沢や山梨方面の山へ登っている。
+最近は会社の同僚を誘ってグループ登山を主催し
+リーダーとして登山中の意思決定を行なっている
+
+### 釣り
+小学生のころにハマっており
+社会人になって再度ハマってしまった
+主にルアーでメインで
+エリアトラウトや自然渓流CR、アユイングなどをやっている
+フライフィッシングとフライの自作も挑戦している
+
+### ゲーム
+CoDのファンで新作が出る度につい買ってしまう。
+アクション系のゲームが好き
+
