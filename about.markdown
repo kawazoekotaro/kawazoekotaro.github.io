@@ -3,8 +3,6 @@ title: 自己紹介
 permalink: /about/
 ---
 
-[Home](/)
-
 ## 自己紹介
 ### 名前
 川添 浩太朗
