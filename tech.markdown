@@ -52,4 +52,3 @@ CODEOWNERSで自分自身をオーナーに設定し、mainブランチへのマ
 
 参考:
 - https://docs.github.com/ja/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
-- 
