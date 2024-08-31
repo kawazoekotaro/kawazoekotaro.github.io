@@ -11,6 +11,12 @@
       .header-menu {
         display: flex;
         justify-content: space-between;
+        list-style: none;
+        padding-left: 0;
+        
+        @media screen and (max-width: 520px) {
+         flex-direction: column; 
+        }
       }
 
       .header-menu li a {
