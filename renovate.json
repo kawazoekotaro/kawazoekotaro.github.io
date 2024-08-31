@@ -11,5 +11,8 @@
   ],
   "automergeSchedule":[
     "every 1 hour after 00:00 and brefore 23:59 every day"
-  ]
+  ],
+  "automerge": true,
+  "platformAutomerge": true,
+  "reviewrs":["@kawazoekotaro"]
 }
