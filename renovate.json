@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "major": {
+    "enabled": false
+  },
+  "requiredStatusChecks": null,
+  "schedule":[
+    "every 1 hour after 00:00 and brefore 23:59 every day"
+  ],
+  "automergeSchedule":[
+    "every 1 hour after 00:00 and brefore 23:59 every day"
+  ]
+}
