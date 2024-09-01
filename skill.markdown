@@ -62,6 +62,13 @@ permalink: /skill/
 - terraform
   - AWSやgithubなどのパラメータを調べながら追加、変更できる
 
+#### バージョン管理
+- git  
+  - Github flowでの実装
+  - git rebaseやammendを使ったコミット整理
+  - git rebase --ontoを利用したブランチ整理・コンフリクト解消
+
+
 #### 言語
 
 - ruby(8年)
