@@ -22,6 +22,39 @@
       .header-menu li a {
         color: white;
       } 
+
+      #backto_top {
+        position: fixed;
+        right: 50px;
+        bottom: 100px;
+        @media screen and (max-width: 520px) {
+          right: 25px;
+          bottom: 50px;
+        }
+        border-radius: 50%;
+        width: 50px;
+        height: 50px;
+        background: #373737;
+        color: white;
+        text-decoration: none;
+      }
+
+      #backto_top::after{
+        width: 15px;
+        height: 15px;
+        content: '';
+        border-top: solid 3px white;
+        border-right: solid 3px white;
+        transform: rotate(-45deg);
+        position: absolute;
+        top: 21px;
+        left: 16px;
+      }
+
+      /* ページ上に戻るボタンの配置用に設定している */
+      #footer_wrap {
+        position: relative;
+      }
     </style>
   </head>
 
@@ -56,6 +89,9 @@
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
+      <a href="#" id="backto_top">
+        <span id="arrow_above">&nbsp;</span>        
+      </a>
       <footer class="inner">
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
