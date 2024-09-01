@@ -51,6 +51,11 @@ permalink: /skill/
 - jQuery
 - Javascript
 
+#### デザイン
+- CSS
+  - bootstrap
+- Sass
+
 #### テストフレームワーク
 - rspec, system spec, feature spec
   - Flakyテスト改善
